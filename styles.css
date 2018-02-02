@@ -1,0 +1,29 @@
+body{
+	height: 100vh;
+}
+.logoImage{
+	width: 100px;
+	height: 100px;
+}
+p {
+	margin: 0px 130px;
+}
+.paragraph-left{
+	width: 500px;
+	float: left;
+	
+}
+.paragraph-right{
+	width: 490px;
+	float: right;
+	
+}
+.butterflies{
+	width: 100px;
+	height: 100px;
+}
+
+footer{
+	margin-top: 1150px;
+	margin-left: 125px;
+}
